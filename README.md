@@ -41,7 +41,7 @@ npm run dev
 
 ## 📸 Screenshot
 
-<img src="./image.png" width="700">
+![Emoji Memory Game](./image.png)
 ## 👩‍💻 Developed By
 
 **Manasa**

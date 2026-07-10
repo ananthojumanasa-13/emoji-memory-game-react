@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import EmojiCard from "./EmojiCard";
+import EmojiCard from "./EmojiCard.jsx";
 import "./App.css";
 
 const emojisList = [

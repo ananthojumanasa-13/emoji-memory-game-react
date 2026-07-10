@@ -65,12 +65,11 @@ function App() {
 
   useEffect(() => {
     const savedBest = localStorage.getItem("bestScore");
-    const played = localStorage.getItem("gamesPlayed");
 
-    if (savedBest) setBestScore(Number(savedBest));
-    if (played) setGamesPlayed(Number(played));
+    if (savedBest) {
+      setBestScore(Number(savedBest));
+    }
   }, []);
-
   useEffect(() => {
     localStorage.setItem("bestScore", bestScore);
   }, [bestScore]);

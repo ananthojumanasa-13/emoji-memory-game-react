@@ -44,4 +44,10 @@ npm run dev
 ![Emoji Memory Game](./image.png)
 ## 👩‍💻 Developed By
 
+
+## 🚀 Live Demo
+
+👉 https://emoji-memory-game-react-zwoe.vercel.app
+
+
 **Manasa**

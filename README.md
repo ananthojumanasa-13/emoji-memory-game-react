@@ -42,12 +42,16 @@ npm run dev
 ## 📸 Screenshot
 
 ![Emoji Memory Game](./image.png)
-## 👩‍💻 Developed By
+
 
 
 ## 🚀 Live Demo
 
 👉 https://emoji-memory-game-react-zwoe.vercel.app
 
+## 💻 GitHub Repository
 
+https://github.com/ananthojumanasa-13/emoji-memory-game-react
+
+## 👩‍💻 Developed By
 **Manasa**
